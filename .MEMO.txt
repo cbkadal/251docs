@@ -1,4 +1,4 @@
-# REVISI: Fri 29 Nov 2024 19:00
+# REVISI: Fri 29 Nov 2024 19:01
 # REVISI: Fri 29 Nov 2024 18:00
 # REVISI: Fri 29 Nov 2024 15:00
 # REVISI: Fri 29 Nov 2024 13:01
@@ -27,7 +27,7 @@ git push
 # Deploy (gh-pages)
 mkdocs gh-deploy --force --clean
 git checkout gh-pages
-echo "Checkit out at <https://yforku.github.io/251docs/>, but your are not YFORKU!" > README.md
+echo "Checkit out at <https://cbkadal.github.io/251docs/>, but your are not CBKADAL!" > README.md
 git add .
 git commit -m "Include a README.md in gh-pages"
 git push origin gh-pages

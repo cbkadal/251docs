@@ -1,4 +1,4 @@
-# 251docs by YFORKU!
+# 251docs by CBKADAL!
 
 [&#x213C;](#idxXXX)<br id="idx000">
 ## Table of Content (Toc)
@@ -103,15 +103,15 @@ date
 * E.g. repo "251docs/"
 
 ```
-# YOU ARE NOT YFORKU!
-GITHUB="yforku"
+# YOU ARE NOT CBKADAL!
+GITHUB="cbkadal"
 
 REPO="251docs"
 git clone git@github.com:$GITHUB/$REPO.git
 cd $REPO/
 
 ```
-* REMEMBER: You are not **YFORKU**!
+* REMEMBER: You are not **CBKADAL**!
 * Write your memo on file "README.md".
   * Update/push "README.md" regularly.
 
@@ -294,7 +294,7 @@ git push
 ```
 mkdocs gh-deploy --force --clean
 git checkout gh-pages
-echo "Checkit out at <https://yforku.github.io/251docs/>, but your are not YFORKU!" > README.md
+echo "Checkit out at <https://cbkadal.github.io/251docs/>, but your are not CBKADAL!" > README.md
 git add .
 git commit -m "Include a README.md in gh-pages"
 git push origin gh-pages
@@ -302,12 +302,12 @@ git checkout master
 
 ```
 
-* Checkit out at <https://yforku.github.io/251docs/>, but your are not YFORKU!
+* Checkit out at <https://cbkadal.github.io/251docs/>, but your are not CBKADAL!
 
 <hr>
 
 ```
-REVISI: Fri 29 Nov 2024 19:01
+REVISI: Fri 29 Nov 2024 19:02
 REVISI: Fri 29 Nov 2024 18:00
 REVISI: Fri 29 Nov 2024 17:08
 REVISI: Fri 29 Nov 2024 15:00
