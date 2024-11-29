@@ -1,0 +1,8 @@
+# REVISI: Fri 29 Nov 2024 10:00
+# REVISI: Fri 29 Nov 2024 06:01
+# REVISI: Thu 07 Sep 2023 08:00
+# STARTX: Wed 07 Jul 2021 21:00
+
+all:
+	shsh
+
